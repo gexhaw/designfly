@@ -211,7 +211,7 @@ test/             node --test
 
 ## Credits and licenses
 
-Code: MIT © Ruben ([@znatgost](https://github.com/znatgost)).
+Code: MIT © Ruben ([@gexhaw](https://github.com/gexhaw)).
 
 - 3D fly model from [FLY67](https://github.com/znatgost/fly67) (MIT).
 - [three.js](https://threejs.org) r186 (MIT).
